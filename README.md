@@ -16,6 +16,8 @@ I'm Sneha Karthik.
 ## Things I am passionate about
 
 - Android :robot:
+- Machine Learning 😄
+- Web Development ⚓
 
 
 ## Get in touch :coffee:
