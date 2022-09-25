@@ -22,5 +22,5 @@ I'm Sneha Karthik.
 
 ## Get in touch :coffee:
  
-- Your future colleague on [LinkedIn] https://www.linkedin.com/in/snehakarthik/
+- Your future colleague on [LinkedIn](https://www.linkedin.com/in/snehakarthik/).
 - And of course GitHub you're already here.
