@@ -21,8 +21,6 @@ I'm Sneha Karthik.
 
 
 ## Get in touch :coffee:
-
-- Your future buddy to discuss Android related things and tech in general 
-- Your future life savior :stuck_out_tongue: on 
-- Your future employee on 
+ 
+- Your future colleague on [LinkedIn] https://www.linkedin.com/in/snehakarthik/
 - And of course GitHub you're already here.
